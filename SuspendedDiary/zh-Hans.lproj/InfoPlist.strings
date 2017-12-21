@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  SuspendedDiary
+
+  Created by cbx on 2017/12/21.
+  Copyright © 2017年 cbx. All rights reserved.
+*/
+
+CFBundleDisplayName = "SSL-记录你的快乐";
